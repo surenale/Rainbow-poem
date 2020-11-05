@@ -4,5 +4,6 @@ red
 green 
 purple
 yellow 
+silver
 these are the color of rainbow
 
