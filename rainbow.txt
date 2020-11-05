@@ -1,6 +1,8 @@
 blur
 blue 
 red
+green 
+purple
 yellow 
 these are the color of rainbow
 
