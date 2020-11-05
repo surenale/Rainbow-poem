@@ -1,1 +1,6 @@
+blur
+blue 
+red
+yellow 
+these are the color of rainbow
 
