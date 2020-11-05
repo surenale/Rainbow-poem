@@ -1,9 +1,11 @@
+adding the branch unicorn.
 blur
 blue 
 red
 green 
 purple
+unicorn
 yellow 
 silver
-these are the color of rainbow
+these are the color of rainbow and the unicorn.
 
